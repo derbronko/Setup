@@ -1,5 +1,5 @@
 # Setup
-by[derBronko](http://www.derbronko.com)
+by [derBronko](http://www.derbronko.com)
 
 What is Setup?
 -------------
