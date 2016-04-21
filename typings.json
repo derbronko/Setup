@@ -1,0 +1,9 @@
+{
+  "name": "setup",
+  "version": false,
+  "dependencies": {},
+  "ambientDependencies": {
+    "fbsdk": "registry:dt/fbsdk#0.0.0+20160316155526",
+    "jquery": "registry:dt/jquery#2.0.0+20160303223636"
+  }
+}
