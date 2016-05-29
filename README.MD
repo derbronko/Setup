@@ -31,8 +31,26 @@ How to work with Setup?
 - make your work on your style
 
 
+Are there rules?
+-------
+No, not rules in it actual meaning.
+But here are some advices for you:
+####  General
+- You can do everything you want
+- Replace all the "Setup"-names with your project name
+- Use assets/dev as dir for your files and include the output from assets/prod
 
+#### CSS/SCSS 
+- use the variables.scss as central place for declare vars, to find the declaration as fast as possible
+- import new scss files in the imports.scss
+- if you need more css-files than one, you have to edit the grunt-tasks. In the initial setup will only the main.scss become compiled.
 
+#### Scripts 
+- put external libaries in the "external"-dir to get a clean structure
+- implement augmentations for external libaries to provide a passing build
+  
+  
+  
 Have fun! Create wonderful things!
 -----
 I would love to hear about all the crazy and wonderful stuff you have created with Setup!
