@@ -95,7 +95,7 @@ module.exports = function (grunt) {
     grunt.loadNpmTasks('grunt-typescript');
 
 
-    grunt.registerTask("Build PROD", ["clean:prod", "sass:styles", "typings:install", "typescript:prod", "copy:images"]);
+    grunt.registerTask("Build", ["clean:prod", "sass:styles", "typings:install", "typescript:prod", "copy:images"]);
     grunt.registerTask("Watch JS & SCSS", ["watch:styles", "watch:scripts"]);
 
 };

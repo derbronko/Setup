@@ -14,7 +14,7 @@ How to setup Setup?
 ------------------
 There are a few thinks, you have to do:
 
-- install NPM
+- install Node with NPM
 - create a new folder
 - paste the content of this repo into this folder
 - change the project name from "Setup" to your project name in typings.json and package.json
@@ -37,3 +37,5 @@ Have fun! Create wonderful things!
 -----
 I would love to hear about all the crazy and wonderful stuff you have created with Setup!
 Please let me now, wirte me a line at mail(a)derbronko.de
+
+
