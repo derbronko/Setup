@@ -1,4 +1,6 @@
 # Setup
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/derbronko/Setup.svg)](https://greenkeeper.io/)
 by [derBronko](http://www.derbronko.com)
 
 What is Setup?
